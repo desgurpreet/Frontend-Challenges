@@ -63,3 +63,95 @@ font-size: 60px;
     font-size: 14px;
     color: hsl(0, 2%, 91%);
 }
+.row{
+    border-radius: 20px;
+    box-shadow: 10px 15px 15px 5px hsl(251, 94%, 87%);
+}
+.summery{
+    background-color: white;
+    padding: 10px 40px;
+    
+}
+.h4{
+    font-weight: 600;
+    font-size: 18px;
+    margin: 20px 0px;
+    margin-top: 35px;
+}
+.react{
+    background-color: hsl(0, 100%, 93%);
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.bolt{
+    color:hsl(0, 100%, 67%) ;
+    margin-right: 10px;
+}
+.div1{
+    color:hsl(0, 100%, 67%) ;
+    font-weight: 600;
+    margin-right: 240px;
+}
+.eighty{
+    font-weight: 600; 
+}
+.hundred{
+    font-weight: 500;
+    color: rgba(124, 124, 124, 0.911);
+}
+.react1{
+    background-color: hsl(38, 92%, 90%);
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.react2{
+    background-color:  hsl(166, 68%, 94%);
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.react3{
+    background-color:  hsl(236, 73%, 93%);
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.img1{
+    width: 4%;
+    height: 4%;
+    margin-right: 10px;
+}
+.img2{
+    width: 5%;
+    height: 5%;
+    margin-right: 10px;
+}
+.img3{
+    width: 5%;
+    height: 5%;
+    margin-right: 10px;
+}
+.div2{
+    color: hsl(39, 100%, 56%);
+    font-weight: 600;
+    margin-right: 240px;
+}
+.div3{
+    color: hsl(166, 100%, 37%);
+    font-weight: 600;
+    margin-right: 250px;
+}
+.div4{
+    color: hsl(234, 85%, 45%);
+    font-weight: 600;
+    margin-right: 255px;
+}
+.button{
+    color: white;
+    background-color: rgb(46, 46, 92);
+    border-radius: 50px;
+    padding: 10px 200px;
+    margin-top: 30px;
+}
