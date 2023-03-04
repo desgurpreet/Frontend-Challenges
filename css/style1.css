@@ -155,3 +155,38 @@ font-size: 60px;
     padding: 10px 200px;
     margin-top: 30px;
 }
+
+@media only screen and (max-width:768px)
+{
+    .pb{
+        padding: 0px!important;
+    }
+    .row{
+        border-radius: none;
+    }
+    .img-col{
+        border-radius: 0px 0px 60px 60px;
+    }
+    .circle{
+        left: 35%;
+    }
+    .para2{
+        padding: 0px 130px;
+    }
+    .div1{
+        margin-right: 190px;
+    }
+    .div2{
+        margin-right: 190px; 
+    }
+    .div3{
+        margin-right: 200px;
+    }
+    .div4{
+        margin-right: 205px;
+    }
+    .button{
+        padding: 10px 165px;
+        margin-bottom: 30px;
+    }
+}
