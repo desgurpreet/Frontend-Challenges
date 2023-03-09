@@ -1,6 +1,9 @@
 *{
     font-family: 'Overpass', sans-serif;
 }
+.main{
+    display: none;
+}
 body{
     background-color:  hsl(216, 12%, 8%);
 }
@@ -48,4 +51,42 @@ button{
     border: none;
     padding: 10px 140px;
     border-radius: 30px;
+}
+.main2{
+    background-color: hsl(213, 19%, 18%);
+    padding: 45px 0px;
+    border-radius: 15px;
+}
+.img2{
+    margin-left: 105px;
+    margin-bottom: 35px;
+}
+.para3{
+    color:  hsl(25, 97%, 53%);
+    background-color:  hsla(216, 12%, 54%, 0.119);
+    text-align: center;
+    font-size: 14px;
+    padding: 7px 10px;
+    margin: 0px 95px;
+    border-radius: 15px;
+}
+.h2{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    color: hsl(0, 0%, 100%);
+}
+h6{
+    font-size: 12px;
+    text-align: center;
+    color: hsl(217, 12%, 63%);
+    padding: 0px 66.5px;
+}
+.h6{
+    font-size: 14px;
+    text-align: center;
+    color: hsl(217, 12%, 63%);
+    
 }
