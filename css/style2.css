@@ -1,9 +1,6 @@
 *{
     font-family: 'Overpass', sans-serif;
 }
-.main{
-    display: none;
-}
 body{
     background-color:  hsl(216, 12%, 8%);
 }
@@ -38,11 +35,42 @@ body{
     margin-bottom: 40px;
 }
 span.cnt,.cnt1,.cnt2,.cnt3,.cnt4{
+    cursor: pointer;
     color:  hsl(217, 12%, 63%);
     background-color: hsla(216, 12%, 54%, 0.119);
     padding: 15px 20px;
     border-radius: 50%;
     margin-right: 20px;
+}
+p span.cnt:hover
+{
+    color:hsl(0, 0%, 100%) ;
+    background-color: hsl(25, 97%, 53%);
+}
+p span.cnt1:hover
+{
+    color:hsl(0, 0%, 100%) ;
+    background-color: hsl(25, 97%, 53%);
+}
+p span.cnt2:hover
+{
+    color:hsl(0, 0%, 100%) ;
+    background-color: hsl(25, 97%, 53%);
+}
+p span.cnt3:hover
+{
+    color:hsl(0, 0%, 100%) ;
+    background-color: hsl(25, 97%, 53%);
+}
+p span.cnt4:hover
+{
+    color:hsl(0, 0%, 100%) ;
+    background-color: hsl(25, 97%, 53%);
+}
+
+button:hover{
+    background-color:  hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%) ;
 }
 button{
     color: hsl(0, 0%, 100%);
