@@ -118,3 +118,24 @@ h6{
     color: hsl(217, 12%, 63%);
     
 }
+@media only screen and (max-width:768px){
+    .pb{
+        padding: 80px 50px;
+    }
+    .main{
+        padding: 50px 30px 50px 40px;
+    }
+    .para{
+        padding-right: 40px;
+    }
+    span.cnt,.cnt1,.cnt2,.cnt3,.cnt4{
+        margin-right: 15px;
+    }
+    button{
+        padding: 10px 120px;
+    }
+    h6{
+        font-size: 14px;
+        padding: 0px 60px;
+    }
+}
