@@ -1,0 +1,16 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+}
+.pb{
+    padding: 20px 505px;
+}
+.img{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 30px;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+    padding: 20px 20px;
+    border-radius: 30px;
+}
